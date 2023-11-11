@@ -1,2 +1,2 @@
-# google_translate_extension
+# google-translate-extension
 Adds context menu item to translate selected text.
