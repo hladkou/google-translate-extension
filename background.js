@@ -15,7 +15,7 @@ chrome.contextMenus.onClicked.addListener((info, tab) => {
 
     chrome.windows.create({
       url: googleTranslateUrl,
-      type: 'popup',
+      //type: 'popup',
       width: 800,
       height: 700
     });
